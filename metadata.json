@@ -1,0 +1,5 @@
+{
+  "name": "Izmir Architecture BI Analyst",
+  "description": "A Digital Business Intelligence tool to analyze architecture firms in Izmir using Gemini AI with Google Search and Maps.",
+  "requestFramePermissions": []
+}
